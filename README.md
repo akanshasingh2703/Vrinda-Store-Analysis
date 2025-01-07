@@ -42,8 +42,4 @@ This project focuses on analyzing the annual sales data of Vrinda Store for 2022
 
 ---
 
-## 📊 Tools Used    
-- **Microsoft Excel**: For preprocessing and analysis of sales data.
-
----
 
